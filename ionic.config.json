@@ -1,0 +1,7 @@
+{
+  "name": "mspr-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
